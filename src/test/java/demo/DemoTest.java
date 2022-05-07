@@ -21,6 +21,8 @@ public class DemoTest {
 	
 		public static void trapMethod(){
 		System.out.println("Trap 1...");
+			System.out.println("Trap 2.....");
+			
 	}
 
 }
