@@ -6,7 +6,10 @@ public class DemoTest {
 		System.out.println("Test");
 		
 	}
-
+ public static void add() {
+	 
+	 System.out.println("Jawad");
+ }
 }
 
 //Pulling Test
