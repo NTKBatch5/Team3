@@ -12,6 +12,7 @@ public class DemoTest {
  }
  public static void add2() {
 	 System.out.println("Abdull");
+	 System.out.println("123");
  }
 }
 
