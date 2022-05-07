@@ -10,6 +10,9 @@ public class DemoTest {
 	 
 	 System.out.println("Jawad");
  }
+ public static void add2() {
+	 System.out.println("Abdull");
+ }
 }
 
 //Pulling Test
