@@ -10,6 +10,10 @@ public class DemoTest {
 	 
 	 System.out.println("Jawad");
  }
+	
+		public static void trapMethod(){
+		System.out.println("Trap 1...");
+	}
 }
 
 //Pulling Test
